@@ -7,6 +7,6 @@ return a+b;
 
 int main()
 {
-cout<<add(3,44);
+cout<<add(43,44);
 return 0;
 }
